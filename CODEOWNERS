@@ -4,6 +4,7 @@
 
 # These owners will be the default owners for everything in
 # the repo. Unless a later match takes precedence,
-# @jonavellecuerdo will be requested for review when
+# @jonavellecuerdo and @eturnator will be requested for review when
 # someone opens a pull request.
 *       @jonavellecuerdo
+*       @eturnator
